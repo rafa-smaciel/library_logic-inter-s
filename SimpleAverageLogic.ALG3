@@ -1,0 +1,7 @@
+Rotina
+   Declare n1,n2,m Numéricos
+   Receba "Digite o 1º número: ",n1
+   Receba "Digite o 2º número: ",n2
+   m=(n1+n2)/2
+   Escreva "Média: ",m
+FimRotina
